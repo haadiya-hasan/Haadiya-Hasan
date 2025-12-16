@@ -71,16 +71,28 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### ⭐ Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&hide_border=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&hide_border=true&theme=default" height="160" />
+  <a href="https://github.com/haadiya-hasan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_1&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haadiya-hasan&layout=compact&hide_border=true&theme=default" height="140" />
+  <a href="https://github.com/haadiya-hasan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_2&hide_border=true" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/haadiya-hasan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_3&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 
