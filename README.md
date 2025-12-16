@@ -71,28 +71,6 @@
 
 ---
 
-### ⭐ Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/haadiya-hasan/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_1&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/haadiya-hasan/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_2&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/haadiya-hasan/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_3&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
