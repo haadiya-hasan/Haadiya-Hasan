@@ -71,6 +71,39 @@
 
 ---
 
+### ⭐ Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/haadiya-hasan/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_1&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/haadiya-hasan/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_2&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/haadiya-hasan/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haadiya-hasan&repo=REPO_NAME_3&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haadiya-hasan&layout=compact&hide_border=true" height="140" />
+</p>
+
 
 <p align="center">
   <i>Minimal. Curious. Always learning.</i>
