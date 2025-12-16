@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I’m Haadiya 👋</h1>
+<h1 align="center">Hello Developers! 💻 </h1>
+<p align="center"><i>Data Science & Artificial Intelligence Undergraduate</i></p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="260" alt="aesthetic coding gif" />
