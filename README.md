@@ -1,11 +1,11 @@
 <h1 align="center">Hello Developers! 💻 </h1>
-<p align="center"><i>I'm Haadiya Hasan Faruqi, a Data Science & Artificial Intelligence Undergraduate</i></p>
+<p align="center"><i>I'm Haadiya Hasan Faruqi</i></p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="260" alt="aesthetic coding gif" />
 </p>
 
-<h3 align="center">B.Sc. Data Science & Artificial Intelligence</h3>
+<h3 align="center">B.Sc. Artificial Intelligence</h3>
 <p align="center">
   Focused on building <b>clean</b>, <b>meaningful</b>, and <b>scalable</b> solutions with data and code.
 </p>
@@ -53,16 +53,6 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-</p>
-
----
-
-### ⭐ Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/haadiya-hasan" target="_blank"><b>• Data Analysis & Visualization Projects</b></a><br/>
-  <a href="https://github.com/haadiya-hasan" target="_blank"><b>• Python & SQL Practice Repositories</b></a><br/>
-  <a href="https://github.com/haadiya-hasan" target="_blank"><b>• AI / ML Learning Projects</b></a>
 </p>
 
 ---
