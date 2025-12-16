@@ -75,13 +75,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&hide_border=true" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haadiya-hasan&layout=compact&hide_border=true" height="140" />
 </p>
 
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a7/4d/ac/a74dacb78ff3ca8c5cec7b078fc8fe7b.gif" />
+</p>
 
 <p align="center">
   <i>Minimal. Curious. Always learning.</i>
