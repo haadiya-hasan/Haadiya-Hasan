@@ -56,9 +56,40 @@
 
 ---
 
-### 📂 Projects
+### ⭐ Featured Repositories
 
-* 👨‍💻 All projects: **[github.com/haadiya-hasan](https://github.com/haadiya-hasan)**
+<p align="center">
+  <a href="https://github.com/haadiya-hasan" target="_blank"><b>• Data Analysis & Visualization Projects</b></a><br/>
+  <a href="https://github.com/haadiya-hasan" target="_blank"><b>• Python & SQL Practice Repositories</b></a><br/>
+  <a href="https://github.com/haadiya-hasan" target="_blank"><b>• AI / ML Learning Projects</b></a>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haadiya-hasan-6197b2387/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>hasan.haadiya@gmail.com</b>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&hide_border=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&hide_border=true&theme=default" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haadiya-hasan&layout=compact&hide_border=true&theme=default" height="140" />
+</p>
 
 ---
 
