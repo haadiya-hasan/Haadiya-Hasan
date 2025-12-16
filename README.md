@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haadiya!</h1>
-<h3 align="center">B.Sc. Data Science & Artificial Intelligence student Focused on building clean, meaningful, and scalable solutions.</h3>
+<h3 align="center">B.Sc. Data Science & Artificial Intelligence student. I'm focused on building clean, meaningful, and scalable solutions.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/haadiya-hasan](https://github.com/haadiya-hasan)
 
