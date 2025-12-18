@@ -21,6 +21,20 @@
 
 ---
 
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haadiya-hasan-6197b2387/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>hasan.haadiya@gmail.com</b>
+</p>
+
+---
+
 ### 🌱 What I’m Working On
 
 * Strengthening fundamentals in **Python, SQL, and Data Analysis**
@@ -53,20 +67,6 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/haadiya-hasan-6197b2387/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  📧 <b>hasan.haadiya@gmail.com</b>
 </p>
 
 ---
