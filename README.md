@@ -1,5 +1,10 @@
 <h1 align="center">Hello Developers! 💻 </h1>
-<p align="center"><i>I'm Haadiya Hasan Faruqi</i></p>
+<!-- Title -->
+<h1 align="center" title="Glad you're here ✨">𓆝 𓆟 I'm Haadiya 𓆞 𓆝 𓆟</h1>
+
+<h3 align="center">
+Artificial Intelligence Student • Machine Learning • Data-Driven Systems
+</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="260" alt="aesthetic coding gif" />
