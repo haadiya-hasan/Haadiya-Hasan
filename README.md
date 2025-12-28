@@ -108,7 +108,7 @@ Artificial Intelligence Student • Machine Learning • Data-Driven Systems
 
 <!-- Metrics -->
 
-  <summary><b>📊 GitHub Stats</b></summary>
+  ### 📊 GitHub Stats
   <p align="center">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&theme=tokyonight"/>
   </p>
