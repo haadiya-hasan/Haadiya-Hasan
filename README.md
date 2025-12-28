@@ -70,17 +70,25 @@ Artificial Intelligence Student • Machine Learning • Data-Driven Systems
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
+
 
 ---
 
