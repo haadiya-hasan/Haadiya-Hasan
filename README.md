@@ -1,10 +1,30 @@
-<h1 align="center">Hello Developers! 💻 </h1>
 <!-- Title -->
-<h1 align="center" title="Glad you're here ✨">𓆝 𓆟 I'm Haadiya 𓆞 𓆝 𓆟</h1>
+<h1 align="center" title="Glad you're here ✨">𓆝 𓆟 Hello Developers, I'm Haadiya 𓆞 𓆝 𓆟</h1>
 
 <h3 align="center">
 Artificial Intelligence Student • Machine Learning • Data-Driven Systems
 </h3>
+
+<!-- Socials -->
+<p align="center">
+  <kbd>
+    <a href="https://github.com/haadiya-hasan" title="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/haadiya-hasan-6197b2387/" title="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://x.com/haadiyxx" title="X / Twitter">
+      <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/autizhaadi" title="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.codechef.com/users/haadiya_hasan" title="CodeChef">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
+    </a>
+  </kbd>
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="260" alt="aesthetic coding gif" />
