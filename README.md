@@ -106,9 +106,22 @@ Artificial Intelligence Student • Machine Learning • Data-Driven Systems
 </p>
 
 
+<!-- Metrics -->
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&theme=tokyonight"/>
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&theme=tokyonight"/>
+  </p>
+</details>
+
+<!-- Snake -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a7/4d/ac/a74dacb78ff3ca8c5cec7b078fc8fe7b.gif" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500"/>
 </p>
+
+</details>
+
 
 <p align="center">
   <i>Minimal. Curious. Always learning.</i>
