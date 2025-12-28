@@ -94,23 +94,11 @@ Artificial Intelligence Student • Machine Learning • Data-Driven Systems
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haadiya-hasan&layout=compact&hide_border=true" height="140" />
-</p>
-
-
 <!-- Metrics -->
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true&theme=tokyonight"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=haadiya-hasan&show_icons=true"/>
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=haadiya-hasan&theme=tokyonight"/>
   </p>
 </details>
