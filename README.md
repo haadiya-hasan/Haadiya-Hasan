@@ -30,7 +30,6 @@ Artificial Intelligence Student • Machine Learning • Data-Driven Systems
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="260" alt="aesthetic coding gif" />
 </p>
 
-<h3 align="center">B.Sc. Artificial Intelligence</h3>
 <p align="center">
   Focused on building <b>clean</b>, <b>meaningful</b>, and <b>scalable</b> solutions with data and code.
 </p>
